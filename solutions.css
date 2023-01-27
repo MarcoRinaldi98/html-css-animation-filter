@@ -72,5 +72,19 @@
 }
 
 /* Esercizio 11*/
+.ex-11-icon:hover{
+    animation: tre-quarti 2s infinite linear;
+} 
+@keyframes tre-quarti {
+    0%  {
+        transform: rotate(0deg);
+    }
+    75%  {
+        transform: rotate(270deg);
+    }
+    
+}
+
 /* Esercizio 12 */
+
 /* Esercizio 13 */

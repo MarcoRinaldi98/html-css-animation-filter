@@ -17,8 +17,13 @@
 }
 
 /* Esercizio 4 */
+.ex-4-square:hover {
+    opacity: 0;
+    transition: all 3s;
+}
 
 /* Esercizio 5 */
+
 /* Esercizio 6 */
 /* Esercizio 7 */
 /* Esercizio 8 */

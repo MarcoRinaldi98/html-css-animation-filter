@@ -44,8 +44,14 @@
 }
 
 /* Esercizio 8 */
+.ex-8-img:hover{
+    filter: saturate(50%) brightness(1.5);
+    border-radius: 20px;
+    transition: all 2s;
+}
 
 /* Esercizio 9 */
+
 /* Esercizio 10 */
 /* Esercizio 11*/
 /* Esercizio 12 */
